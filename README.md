@@ -9,5 +9,6 @@
     4. share articles on how to setup VM and VC
     5. how to create folder and open it in VS
     6. She shared a foundations course to learn the foundations
+    7. Shared the company name: Futurecraft Labs 
 
 
