@@ -4,7 +4,7 @@ def main():
     print("Welcome, this is a Simple Calculator!")
 
     print("Please enter the first number:")
-    x = float(input())
+    x =float(input())
 
     print("Please enter the second number:")
     y = float(input()) 
