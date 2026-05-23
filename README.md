@@ -11,4 +11,10 @@
     6. She shared a foundations course to learn the foundations
     7. Shared the company name: Futurecraft Labs 
 
+* 2nd day, Natasha helped me learn how to: 
+    1. Build a simple calculator with basic functions
+    2. Helped me find the debuging cousnle, by placing the red dot on the line of code I want to debug in (python debugger: debug python file). This tool give you step by step output 
+    3. Explaned the STACH tool, which is a tool used to put away recent changes if there is a conflict in github because of different versions, and then bring the code back when needed   
+
+
 
